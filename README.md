@@ -1,2 +1,5 @@
 # github-actions-quickstart
 Github actions automation
+
+## Feedback 1
+When you say "Scroll to the bottom of the page and select "Create a new branch for this commit and start a pull request. Then, to create a pull request, click Propose new file." it would be helpful to also include instructions for people following in the github CLI. Since we have to create a folder which can't be done in the UI, I was using the CLI in vscode and got it to work by manually committing and puushing. It would also be nice to explain whay we have to create a new brenach (or if we even need to ) and why we must create a PR. Also, I think it would be helpfuul to provide one-liner explanations on what some of the syntax in the yaml file means. For example, explaining what a job is, how to create different jobs, and providing more examples besides using 'run' 3 times. 
